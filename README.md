@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 📈 My ultimate goal is to become a Data Scientist, which is why I'm currently learning programming languages such as Python, R, and SQL. I believe that data is the key to unlocking valuable insights and driving informed decision-making, and I'm excited to be a part of this field.
 
-👨‍💼 In my free time, I enjoy working on personal coding projects and exploring new technologies. I'm also an avid reader 📚 and enjoy learning about a variety of subjects, from science and technology to history and philosophy.
+👨‍💼 In my free time, I enjoy working on personal coding projects and exploring new technologies.
 
 Thanks for visiting my profile, and feel free to reach out if you'd like to connect or collaborate! 🤝
 
