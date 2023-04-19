@@ -1,9 +1,24 @@
-- 👋 Hi, Welcome to my GitHub!
-
 <!---
 Taimisson/Taimisson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1050&height=50&lines=Hello%2C+my+name+is+Taimisson!+Welcome+to+my+Profile!" align="middle" alt="Hello, I'm Taimisson! Welcome to my Profile! animated typed out"> <img  src="assests/borderseperator.gif">
+<h2> 👋 About me:  </h2>
+<p> </p>
+
+👨‍💻 I'm a technology enthusiast currently pursuing a Bachelor's degree in Computer Science at Universidade do Rio do Sinos - Unisinos.
+
+🌎 I live in Brazil, more specifically in Rio Grande do Sul. I'm 19 years old.
+
+🚀 My passion for technology started at a young age and has only grown stronger since then. I'm always looking for ways to expand my knowledge and stay up-to-date with the latest trends in the industry.
+
+📈 My ultimate goal is to become a Data Scientist, which is why I'm currently learning programming languages such as Python, R, and SQL. I believe that data is the key to unlocking valuable insights and driving informed decision-making, and I'm excited to be a part of this field.
+
+👨‍💼 In my free time, I enjoy working on personal coding projects and exploring new technologies. I'm also an avid reader 📚 and enjoy learning about a variety of subjects, from science and technology to history and philosophy.
+
+Thanks for visiting my profile, and feel free to reach out if you'd like to connect or collaborate! 🤝
+
 
 ## Learning!
 
