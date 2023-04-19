@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taimisson
 - 👀 I’m interested in learning new programming languages
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python, R, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
