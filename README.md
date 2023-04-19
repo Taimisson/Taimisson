@@ -30,11 +30,11 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       </a>
-      <br>PHP
+      <br>MySQL
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
       <br>Node.js
     </td>
     <td align="center" width="96">
