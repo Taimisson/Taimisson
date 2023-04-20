@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h2> 👋 About me:  </h2>
 <p> </p>
 
-👨‍💻 I'm a technology enthusiast currently pursuing a Bachelor's degree in Computer Science at Universidade do Rio do Sinos - Unisinos.
+👨‍💻 I'm a technology enthusiast currently pursuing a Bachelor's degree in Computer Science at Universidade do Vale do Rio dos Sinos - Unisinos.
 
 🌎 I live in Brazil, more specifically in Rio Grande do Sul. I'm 19 years old.
 
