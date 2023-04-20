@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 Thanks for visiting my profile, and feel free to reach out if you'd like to connect or collaborate! 🤝
 
 
-## Learning!
+## Learning 📚
 
 <table align="center">
 
