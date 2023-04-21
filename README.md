@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1150&height=50&lines=Hello%2C+my+name+is+Taimisson!+Welcome+to+my+Profile!" align="middle" alt="Hello, I'm Taimisson! Welcome to my Profile! animated typed out"> <img  src="assests/borderseperator.gif">
-<h2> 👋 About me:  </h2>
+<h2> Me 👋 </h2>
 <p> </p>
 
 👨‍💻 I'm a technology enthusiast currently pursuing a Bachelor's degree in Computer Science at Universidade do Vale do Rio dos Sinos - Unisinos.
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 
   <img align="right" alt="CODE-CAT" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/736443465315123200/1099041148204486686/cating.png">
   
-<h2> Contact me </h2>
+<h2> Contact me 📩</h2>
 <div align="center"> 
   <a href="https://github.com/Taimisson" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/taimissonn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -68,3 +68,5 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/taimisson-carvalho-27a5a2233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
+<h2> Activity </h2>
+![Snake animation](https://github.com/Taimisson)
