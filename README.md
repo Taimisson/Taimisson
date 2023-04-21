@@ -69,4 +69,4 @@ You can click the Preview link to take a look at your changes.
 </div>
   
 <h2> Activity </h2>
-![Snake animation](https://github.com/Taimisson)
+![Snake animation](https://github.com/Taimisson/Taimisson/blob/output/github-contribution-grid-snake.gif)
