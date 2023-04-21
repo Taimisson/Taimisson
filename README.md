@@ -13,15 +13,13 @@ You can click the Preview link to take a look at your changes.
 
 📈 My ultimate goal is to become a Data Scientist, which is why I'm currently learning programming languages such as Python, R, and SQL. I believe that data is the key to unlocking valuable insights and driving informed decision-making, and I'm excited to be a part of this field.
 
-👨‍💼 In my free time, I enjoy working on personal coding projects and exploring new technologies.
+👨‍💼 In my free time, I enjoy working on personal coding projects and exploring new technologies. 
 
-Thanks for visiting my profile, and feel free to reach out if you'd like to connect or collaborate! 🤝
+  Thanks for visiting my profile, and feel free to reach out if you'd like to connect or collaborate! 🤝
 
+<h2> Learning 📚</h2>
 
-## Learning 📚
-
-<table align="center">
-
+  <table align="center">
   <tr>
     </td>
      <td align="center"  width="96">
@@ -56,7 +54,17 @@ Thanks for visiting my profile, and feel free to reach out if you'd like to conn
       </a>
       <br>Git
     </td>
-    
-</tr>
-       
+   </tr>
+</table>
 
+  <img align="right" alt="CODE-CAT" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/736443465315123200/1099041148204486686/cating.png">
+  
+<h2> Contact me </h2>
+<div> 
+  <a href="https://github.com/Taimisson" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/taimissonn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/taisoo_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
+  <a href = "mailto:taimissongithub@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/taimisson-carvalho-27a5a2233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
