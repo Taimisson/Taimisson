@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 👨‍💻 I'm a technology enthusiast currently pursuing a Bachelor's degree in Computer Science at Universidade do Vale do Rio dos Sinos - Unisinos.
 
-🌎 I live in Brazil, more specifically in Rio Grande do Sul. I'm 19 years old.
-
 🚀 My passion for technology started at a young age and has only grown stronger since then. I'm always looking for ways to expand my knowledge and stay up-to-date with the latest trends in the industry.
 
 📈 My ultimate goal is to become a Data Scientist, which is why I'm currently learning programming languages such as Python, R, and SQL. I believe that data is the key to unlocking valuable insights and driving informed decision-making, and I'm excited to be a part of this field.
