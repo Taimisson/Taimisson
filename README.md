@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 
   <img align="right" alt="CODE-CAT" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/736443465315123200/1099041148204486686/cating.png">
   
-<h2> Contact me 📩</h2>
+<h2> Contact 📩</h2>
 <div align="center"> 
   <a href="https://github.com/Taimisson" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:taimissongithub@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
