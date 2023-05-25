@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 👨‍💼 In my free time, I enjoy working on personal coding projects and exploring new technologies.
 
- Thanks for visiting my profile, and feel free to reach out if you'd like to connect or collaborate! 🤝
+ Thanks for visiting my profile, and feel free to reach out if you'd like to connect or collaborate!! 🤝
 
 <h2> Learning 📚</h2>
 
