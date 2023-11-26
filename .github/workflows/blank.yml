@@ -17,10 +17,10 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: Platane/snk@v3.2.0
 
     # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3.2.0
         id: snake-gif
         with:
           github_user_name: Taimisson #Seu usuario
