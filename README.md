@@ -22,14 +22,6 @@ You can click the Preview link to take a look at your changes.
   <table align="center">
   <tr>
     </td>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -47,6 +39,12 @@ You can click the Preview link to take a look at your changes.
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" height="70" alt="Git" />
+      </a>
+      <br>C++
     </td>   
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
