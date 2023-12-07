@@ -11,8 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 🚀 My passion for technology started at a young age and has only grown stronger since then. I'm always looking for ways to expand my knowledge and stay up-to-date with the latest trends in the industry.
 
-📈 My ultimate goal is to become a Data Scientist. I believe that data is the key to unlocking valuable insights and driving informed decision-making, and I'm excited to be a part of this field.
-
 🏆 Additionally, I am new into the world of competitive programming, sharpening my skills in C and C++. This challenges me to think critically and solve complex problems, further fueling my love for technology.
 
 👨‍💼 In my free time, I enjoy tackling challenging problems on platforms like BeeCrowd, LeetCode, and Hackerrank, which helps me refine my coding skills and problem-solving abilities.
