@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1150&height=50&lines=Hello%2C+my+nickname+is+Taisoo!+Welcome+to+my+Profile!" align="middle" alt="Hello, I'm Taisoo! Welcome to my Profile! animated typed out"> <img  src="assests/borderseperator.gif">
-<h2> Welcome ! 👋 </h2>
+<h2> Welcome!! 👋 </h2>
 <p> </p>
 
 👨‍💻 I'm a technology enthusiast currently pursuing a Bachelor's degree in Computer Science at Universidade do Vale do Rio dos Sinos - Unisinos.
