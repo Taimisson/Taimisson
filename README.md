@@ -2,9 +2,10 @@
 Taimisson/Taimisson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<h2></h2>
+<br></br>
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1150&height=50&lines=Hello%2C+my+nickname+is+Taisoo!+Welcome+to+my+Profile!" align="middle" alt="Hello, I'm Taisoo! Welcome to my Profile! animated typed out"> <img  src="assests/borderseperator.gif">
-<h2> Welcome! 👋 </h2>
+<h2></h2>
 <p> </p>
 
 <h2> Learning 📖</h2>
