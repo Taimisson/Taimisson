@@ -7,16 +7,6 @@ You can click the Preview link to take a look at your changes.
 <h2> Welcome! 👋 </h2>
 <p> </p>
 
-👨‍💻 I'm a technology enthusiast currently pursuing a Bachelor's degree in Computer Science at Universidade do Vale do Rio dos Sinos - Unisinos.
-
-🚀 My passion for technology started at a young age and has only grown stronger since then. I'm always looking for ways to expand my knowledge and stay up-to-date with the latest trends in the industry. I also enjoy Data Science.
-
-🏆 Additionally, I am new into the world of competitive programming, sharpening my skills in C and C++. This challenges me to think critically and solve complex problems, further fueling my love for technology.
-
-👨‍💼 In my free time, I enjoy tackling challenging problems on platforms like BeeCrowd, CodeForces, LeetCode, and Hackerrank, which helps me refine my coding skills and problem-solving abilities.
-
-Thanks for visiting my profile, and feel free to reach out if you'd like to connect or collaborate! 🤝
-
 <h2> Learning 📖</h2>
 
   <table align="center">
