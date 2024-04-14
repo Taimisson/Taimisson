@@ -56,11 +56,6 @@ You can click the Preview link to take a look at your changes.
    </tr>
 </table>
 
-<!-- Ajuste para posicionar a imagem no canto direito -->
-<div style="position: fixed; right: 0; top: 50%;">
-  <img alt="CODE-CAT" height="300" style="border-radius:50px;" src="/images/codecat.png">
-</div>
-
 <h2> Contact 📩</h2>
 <div align="center"> 
   <a href="https://github.com/Taimisson" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
