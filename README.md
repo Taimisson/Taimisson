@@ -57,8 +57,8 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <!-- Ajuste para posicionar a imagem no canto direito -->
-<div style="position: fixed; right: 50; top: 50%;">
-  <img alt="CODE-CAT" height="300" style="border-radius:100px;" src="/images/codecat.png">
+<div style="position: fixed; right: 0; top: 50%;">
+  <img alt="CODE-CAT" height="300" style="border-radius:50px;" src="/images/codecat.png">
 </div>
 
 <h2> Contact 📩</h2>
