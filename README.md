@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
    </tr>
 </table>
 
-  <img align="right" alt="CODE-CAT" height="150" style="border-radius:50px;" src="Taimisson/Taimisson/images/codecat.png">
+  <img align="right" alt="CODE-CAT" height="150" style="border-radius:50px;" src="/images/codecat.png">
   
 <h2> Contact 📩</h2>
 <div align="center"> 
