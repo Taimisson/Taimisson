@@ -12,7 +12,10 @@ Welcome! 👋
 
 Thanks for visiting my profile, and feel free to reach out if you'd like to connect or collaborate! 🤝
 
-- "In a world where you can be anything, be kind!"
+<div align="center">
+  <b>"In a world where you can be anything, be kind!"</b>
+</div>
+
 
 <h2> Learning 📖</h2>
   <table align="center">
