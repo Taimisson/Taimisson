@@ -1,4 +1,5 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="position: relative;">
+  <img src="catcode.png" alt="CatCode" style="max-width: 20%; border-radius: 4px; position: absolute; right: 0; top: 0;">
   <div style="max-width: 60%;">
   
   - 👨‍💻 Computer science student, competitive programmer, and cat lover.
@@ -6,8 +7,8 @@
   - 💬 "In a world where you can be anything, be kind!"
   
   </div>
-  <img src="catcode.png" alt="CatCode" style="max-width: 10%; border-radius: 4px;">
 </div>
+
 
 <h3> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Technologies
