@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ---
 Welcome! 👋
 
-👨‍💻 I'm a technology enthusiast currently pursuing a Bachelor's degree in Computer Science. I am new to the world of competitive programming and am sharpening my skills in C and C++.
+👨‍💻 I'm a technology enthusiast currently pursuing a Bachelor's degree in Computer Science. I am new to the world of competitive programming and am sharpening my skills in C++.
 
 👨‍💼 In my free time, I enjoy tackling challenging problems on platforms like LeetCode and working on projects in Java.
 
