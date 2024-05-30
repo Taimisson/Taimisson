@@ -3,6 +3,17 @@ Taimisson/Taimisson is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=20&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1150&height=50&lines=Hello%2C+my+nickname+is+Taisoo!+Welcome+to+my+Profile!" align="middle" alt="Hello, I'm Taisoo! Welcome to my Profile! animated typed out"> <img src="assests/borderseperator.gif">
+---
+Welcome! 👋
+
+👨‍💻 I'm a technology enthusiast currently pursuing a Bachelor's degree in Computer Science. I am new to the world of competitive programming and am sharpening my skills in C and C++.
+
+👨‍💼 In my free time, I enjoy tackling challenging problems on platforms like LeetCode and working on projects in Java.
+
+Thanks for visiting my profile, and feel free to reach out if you'd like to connect or collaborate! 🤝
+
+- "In a world where you can be anything, be kind!"
+
 <h2> Learning 📖</h2>
   <table align="center">
   <tr>
