@@ -6,7 +6,7 @@
   - 💬 "In a world where you can be anything, be kind!"
   
   </div>
-  <img src="catcode.png" alt="CatCode" style="max-width: 20%; border-radius: 4px; position: absolute; right: 10px; top: 10px;">
+  <img src="catcode.png" alt="CatCode" style="max-width: 2%; border-radius: 4px; position: absolute; right: 10px; top: 10px;">
 </div>
 
 
