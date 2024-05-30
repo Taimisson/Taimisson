@@ -12,18 +12,11 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Java-24273a.svg?style=for-the-badge&logo=java-bold&logoColor=E0144C"/>
   <img src="https://img.shields.io/badge/spring-24273a.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/SQL-24273a.svg?style=for-the-badge&logo=database&logoColor=fea314"/>
-  <img src="https://img.shields.io/badge/Windows-24273a?style=for-the-badge&logo=windows&logoColor=30B9E3"/>
-  <img src="https://img.shields.io/badge/VS%20Code-24273a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-24273a.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLion-24273a?style=for-the-badge&logo=clion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-24273a.svg?style=for-the-badge&logo=Eclipse&logoColor=orange"/>
-
-
-  
-  <img src="https://img.shields.io/badge/MariaDB-24273a?style=for-the-badge&logo=mariadb&logoColor=blue" alt="MariaDB">
-  <img src="https://img.shields.io/badge/MongoDB-24273a.svg?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDB">
   <img src="https://img.shields.io/badge/mysql-24273a.svg?style=for-the-badge&logo=mysql&logoColor=e69f2e" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-24273a.svg?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Windows-24273a?style=for-the-badge&logo=windows&logoColor=30B9E3"/>
    <img src="https://img.shields.io/badge/AWS-24273a?logo=amazon-aws&logoColor=e69f2e&style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/git-24273a.svg?style=for-the-badge&logo=git&logoColor=orange">
   <img src="https://img.shields.io/badge/LeetCode-24273a?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
 
 </div>
