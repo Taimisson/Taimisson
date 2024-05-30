@@ -1,5 +1,5 @@
-- 👨‍💻 computer science student, competitive programmer and cat lover.
-- 🕵️‍♀️ studing software engineering and competitive programming
+- 👨‍💻 Computer science student, competitive programmer, and cat lover.
+- 🕵️‍♀️ Studying software engineering and competitive programming.
 - 💬 "In a world where you can be anything, be kind!"
 
 <h3> 
