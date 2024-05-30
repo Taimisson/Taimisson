@@ -3,7 +3,7 @@
 - 💬 "In a world where you can be anything, be kind!"
 
 <div style="position: absolute; right: 0; top: 0; z-index: 1; width: 10%;">
-    <img src="catcode.png" alt="Imagem" style="width: 1%;">
+    <img src="catcode.png" alt="Imagem" style="width: 20%;">
 </div>
 
 <h3> 
