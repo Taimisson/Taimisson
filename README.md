@@ -1,79 +1,33 @@
-<!---
-Taimisson/Taimisson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=20&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1150&height=50&lines=Hello%2C+my+nickname+is+Taisoo!+Welcome+to+my+Profile!" align="middle" alt="Hello, I'm Taisoo! Welcome to my Profile! animated typed out"> <img src="assests/borderseperator.gif">
----
+- 👨‍💻 computer science student, competitive programmer and cat lover.
+- 🕵️‍♀️ studing software engineering and competitive programming
+
+<h3> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Technologies
+</h3>
 <div align="center">
-  <b>Welcome! 👋</b>
-</div>
-</br>
-👨‍💻 I'm a technology enthusiast currently pursuing a Bachelor's degree in Computer Science. I am new to the world of competitive programming and am sharpening my skills in C++.
+  <img src="https://img.shields.io/badge/C-24273a?logo=c&style=for-the-badge&logoColor=0078d7"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-24273a?logo=c%2B%2B&style=for-the-badge&logoColor=0078d7"/>
+  <img src="https://img.shields.io/badge/Python-24273a?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-24273a.svg?style=for-the-badge&logo=java-bold&logoColor=E0144C"/>
+  <img src="https://img.shields.io/badge/spring-24273a.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-24273a.svg?style=for-the-badge&logo=database&logoColor=fea314"/>
+  <img src="https://img.shields.io/badge/Windows-24273a?style=for-the-badge&logo=windows&logoColor=30B9E3"/>
+  <img src="https://img.shields.io/badge/VS%20Code-24273a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-24273a.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLion-24273a?style=for-the-badge&logo=clion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-24273a.svg?style=for-the-badge&logo=Eclipse&logoColor=orange"/>
 
-👨‍💼 In my free time, I enjoy tackling challenging problems on platforms like LeetCode and working on projects in Java.
-<div align="center">
-  Thanks for visiting my profile, and feel free to reach out if you'd like to connect or collaborate! 🤝
-</div>
-<div align="center">
-  <b>"In a world where you can be anything, be kind!"</b>
-</div>
 
-
-<h2> Learning 📖</h2>
-  <table align="center">
-  <tr>
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="72" height="72" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" height="70" alt="Git" />
-      </a>
-      <br>C++
-    </td>   
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-      <br>NodeJS
-    </td> 
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" height="70" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-   </tr>
-</table>
-
-<h2> Contact 📩</h2>
-<div align="center"> 
-  <a href="https://github.com/Taimisson" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "mailto:taimissoncontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/taimisson-carvalho-27a5a2233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
   
-## Activity ⚡️ 
+  <img src="https://img.shields.io/badge/MariaDB-24273a?style=for-the-badge&logo=mariadb&logoColor=blue" alt="MariaDB">
+  <img src="https://img.shields.io/badge/MongoDB-24273a.svg?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDB">
+  <img src="https://img.shields.io/badge/mysql-24273a.svg?style=for-the-badge&logo=mysql&logoColor=e69f2e" alt="MySQL">
+   <img src="https://img.shields.io/badge/AWS-24273a?logo=amazon-aws&logoColor=e69f2e&style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/LeetCode-24273a?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
+
+</div>
+<h3> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Activity
+</h3> 
 
 ![snake gif](https://github.com/Taimisson/Taimisson/blob/output/github-contribution-grid-snake-dark.svg)
-
