@@ -1,8 +1,13 @@
-- 👨‍💻 Computer science student, competitive programmer, and cat lover.
-- 🕵️‍♀️ Studying software engineering and competitive programming.
-- 💬 "In a world where you can be anything, be kind!"
-
-![CatCode](catcode.png)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="max-width: 60%;">
+  
+  - 👨‍💻 Computer science student, competitive programmer, and cat lover.
+  - 🕵️‍♀️ Studying software engineering and competitive programming.
+  - 💬 "In a world where you can be anything, be kind!"
+  
+  </div>
+  <img src="catcode.png" alt="CatCode" style="max-width: 30%; border-radius: 8px;">
+</div>
 
 <h3> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Technologies
