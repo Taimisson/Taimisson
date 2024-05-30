@@ -2,10 +2,6 @@
 - 🕵️‍♀️ Studying software engineering and competitive programming.
 - 💬 "In a world where you can be anything, be kind!"
 
-<div style="position: absolute; right: 0; top: 0; z-index: 1; width: 10%;">
-    <img src="catcode.png" alt="Imagem" style="width: 20%;">
-</div>
-
 <h3> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Technologies
 </h3>
