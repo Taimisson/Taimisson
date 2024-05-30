@@ -1,10 +1,11 @@
-- 👨‍💻 Computer science student, competitive programmer, and cat lover.
+<!-- Your other content -->
+<div style="position: relative;">
+  <img src="codecat.png" alt="cat" style="position: absolute; top: 0; left: 0; z-index: 1;"/>
+  - 👨‍💻 Computer science student, competitive programmer, and cat lover.
 - 🕵️‍♀️ Studying software engineering and competitive programming.
 - 💬 "In a world where you can be anything, be kind!"
-
-<div align="center" style="position: absolute; z-index: 1; top: 0; left: 0; right: 0;">
-  <img src="codecat.png" alt="cat"/>
 </div>
+
 
 
 <h3> 
