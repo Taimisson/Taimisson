@@ -2,8 +2,8 @@
 - 🕵️‍♀️ Studying software engineering and competitive programming.
 - 💬 "In a world where you can be anything, be kind!"
 
-<div style="float:right;margin-left:20px;">
-    <img src="catcode.png" alt="Imagem">
+<div style="position: absolute; right: 0; top: 0; z-index: 1; width: 10%;">
+    <img src="catcode.png" alt="Imagem" style="width: 100%;">
 </div>
 
 <h3> 
