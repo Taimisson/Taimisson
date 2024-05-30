@@ -1,17 +1,8 @@
-<div style="display: flex; align-items: center;">
-    <img src="caminho_para_sua_imagem.png" alt="Descrição da imagem" width="25" height="25" style="margin-right: 10px;" />
-    <p>- 👨‍💻 Computer science student, competitive programmer, and cat lover.</p>
-</div>
+- 👨‍💻 Computer science student, competitive programmer, and cat lover.
+- 🕵️‍♀️ Studying software engineering and competitive programming.
+- 💬 "In a world where you can be anything, be kind!"
 
-<div style="display: flex; align-items: center;">
-    <img src="caminho_para_sua_imagem.png" alt="Descrição da imagem" width="25" height="25" style="margin-right: 10px;" />
-    <p>- 🕵️‍♀️ Studying software engineering and competitive programming.</p>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <img src="catcode.png" alt="Cute Cat Sleeping" width="25" height="25" style="margin-right: 10px;" />
-    <p>- 💬 "In a world where you can be anything, be kind!"</p>
-</div>
+![CatCode](catcode.png)
 
 <h3> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Technologies
