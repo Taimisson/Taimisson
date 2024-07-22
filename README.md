@@ -1,6 +1,6 @@
 - 👨‍💻 Computer science student, competitive programmer, and cat lover.
 - 🕵️‍♀️ Studying software engineering and competitive programming.
-- 💬 "In a world where you can be anything, be kind!"
+- 💬 IT Support Intern.
 
 
 <h3> 
