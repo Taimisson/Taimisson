@@ -1,6 +1,7 @@
 - 👨‍💻 Computer science student, competitive programmer, and cat lover.
 - 🕵️‍♀️ Studying software engineering and competitive programming.
-- 💬 Undergraduate Student Researcher.
+- 💬 Research Assistant.
+- 📈 Data Science & Machine Learning Portfolio: [Taimisson de C. Schardosim](https://www.datacamp.com/portfolio/taimisson)
 
 
 <h3> 
