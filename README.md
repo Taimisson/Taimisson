@@ -17,7 +17,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/SQL-24273a.svg?style=for-the-badge&logo=database&logoColor=fea314"/>
   <img src="https://img.shields.io/badge/mysql-24273a.svg?style=for-the-badge&logo=mysql&logoColor=e69f2e" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-24273a.svg?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Windows-24273a?style=for-the-badge&logo=windows&logoColor=30B9E3"/>
    <img src="https://img.shields.io/badge/AWS-24273a?logo=amazon-aws&logoColor=e69f2e&style=for-the-badge" alt="AWS">
   <img src="https://img.shields.io/badge/git-24273a.svg?style=for-the-badge&logo=git&logoColor=orange">
   <img src="https://img.shields.io/badge/LeetCode-24273a?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
